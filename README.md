@@ -1,97 +1,37 @@
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Shani+Yadav+|+Frontend+Developer" alt="banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shani Yadav</h1>
-<h3 align="center">A passionate Frontend Developer from Jaunpur, Uttar Pradesh, India</h3>
+<h3 align="center">A passionate frontend developer from Jaunpur, Uttar Pradesh , India</h3>
 
-<!-- Shields Toggle -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Light-dark?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Clean-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Lover-blueviolet?style=for-the-badge" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaniyadav99&label=Profile%20views&color=0e75b6&style=flat" alt="shaniyadav99" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaniyadav99" alt="shaniyadav99" /></a> </p>
 
-### 🚀 Projects
+- 🔭 I’m currently working on [Employee Manage Portal](https://employee-management-portal-hs6x.vercel.app/login)
 
-- 💼 **Employee Management Portal** → [Live Demo](https://employee-management-portal-hs6x.vercel.app/login)
-- 🛍️ **Modesons** → [Live Demo](https://sweet-pothos-685387.netlify.app/)
+- 🌱 I’m currently learning **React , Firebase , Redux ,DSA**
 
----
+- 💬 Ask me about **React , Redux , DSA , Firebase , Axios**
 
-### 🧠 Currently Learning
+- 📫 How to reach me **yshani477@gmail.com**
 
-React JS · Redux · Firebase · DSA · Axios
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FMTSUs-8ya-3CR1V9a1DimZor1BM3eC2/view?usp=sharing](https://drive.google.com/file/d/1FMTSUs-8ya-3CR1V9a1DimZor1BM3eC2/view?usp=sharing)
 
----
+- ⚡ Fun fact **I can debug a bug faster with chai in hand ☕😉**
 
-### 📫 Contact Me
-
-- 📧 Email: [yshani477@gmail.com](mailto:yshani477@gmail.com)  
-- 📱 Phone: [+91 7309479958](tel:+917309479958)  
-- 📄 [View My Resume](https://drive.google.com/file/d/1FMTSUs-8ya-3CR1V9a1DimZor1BM3eC2/view?usp=sharing)
-
----
-
-### 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shani-yadav-041247225/" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shani._yadav_/?hl=en" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="Instagram" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/yshani477/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=512" alt="LeetCode" width="40" height="40"/>
-  </a>
+<a href="https://linkedin.com/in/shani-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shani-yadav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yshani477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yshani477" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yshani477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yshani477" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-### 🛠️ Tech Stack
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/yshani477@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yshani477@gmail.com" /></a></p><br><br>
 
-<p align="left">
-  <i class="devicon-html5-plain colored" title="HTML"></i>&nbsp;
-  <i class="devicon-css3-plain colored" title="CSS"></i>&nbsp;
-  <i class="devicon-javascript-plain colored" title="JavaScript"></i>&nbsp;
-  <i class="devicon-react-original colored" title="ReactJS"></i>&nbsp;
-  <i class="devicon-redux-original colored" title="Redux"></i>&nbsp;
-  <i class="devicon-firebase-plain colored" title="Firebase"></i>&nbsp;
-  <i class="devicon-axios-plain colored" title="Axios"></i>&nbsp;
-  <i class="devicon-git-plain colored" title="Git"></i>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;
-  <i class="devicon-vscode-plain colored" title="VS Code"></i>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaniyadav99&show_icons=true&locale=en&layout=compact" alt="shaniyadav99" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaniyadav99&show_icons=true&locale=en" alt="shaniyadav99" /></p>
 
-### 🙋‍♂️ About Me
-
-- 👨‍💻 I love building clean, functional, real-world apps.
-- 🔍 I actively practice DSA to boost logic and performance.
-- 📦 Open to new opportunities and collaborations!
-- 🧔 Pronouns: **He/Him**
-- ⚡ Fun fact: I can debug a bug faster with chai in hand ☕😉
-
----
-
-### 📈 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaniyadav&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaniyadav&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniyadav&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaniyadav99&" alt="shaniyadav99" /></p>
